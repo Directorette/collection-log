@@ -1,10 +1,10 @@
 
-# Collection Log Plugin ![Plugin Installs](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/collection-log) ![Plugin Rank](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/rank/plugin/collection-log)
+# (Private) Collection Log Plugin ![Plugin Installs](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/collection-log) ![Plugin Rank](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/rank/plugin/collection-log)
 
-A [Runelite](https://github.com/runelite/runelite) plugin that adds visual improvements to the collection log and integrates with [collectionlog.net](https://collectionlog.net).
+A fork of the now-defunct 'Collection Log' [Runelite](https://github.com/runelite/runelite) plugin that adds visual improvements to the collection log and integrates with the private collection logger of your choice.
 
 ## Features
-* Upload collection log data to [collectionlog.net](https://collectionlog.net)
+* Upload collection log data to an arbitrary Collection Log host
 * Display total item counts alongside unique item counts
 * Display collection log progress as a percentage
 * Custom page highlight colors
@@ -15,7 +15,7 @@ A [Runelite](https://github.com/runelite/runelite) plugin that adds visual impro
 Open the collection log and click through all the pages to get your total progress. Pages that have not yet been clicked on will be marked with `*`
 
 ### Upload to collectionlog.net
-1. Enable "Allow collectionlog.net connections" under the "Exporting" section in the plugin settings
+1. Enable "Allow third-party connections" under the "Exporting" section in the plugin settings
 2. Log into OSRS with the account you would like to upload your collection log for
 3. In the Collection log plugin side panel, follow the "Quick start" instructions in the info tab
 
