@@ -1,5 +1,5 @@
 
-# (Private) Collection Log Plugin ![Plugin Installs](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/installs/plugin/collection-log) ![Plugin Rank](https://img.shields.io/endpoint?url=https://api.runelite.net/pluginhub/shields/rank/plugin/collection-log)
+# (Private) Collection Log Plugin
 
 A fork of the now-defunct 'Collection Log' [Runelite](https://github.com/runelite/runelite) plugin that adds visual improvements to the collection log and integrates with the private collection logger of your choice.
 
